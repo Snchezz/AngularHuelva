@@ -1,0 +1,12 @@
+th, td {
+    color: #fff;
+}
+
+table, th, td {
+    border: 1px solid #fff;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+}

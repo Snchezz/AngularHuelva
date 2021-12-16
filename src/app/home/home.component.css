@@ -1,0 +1,14 @@
+* {
+    background-color: #1b1c1b;
+}
+
+#img {
+    height: 70%;
+    width:  auto;
+    border-radius: 45px;
+}
+
+p {
+    font-size: 20px;
+    color: #fff;
+}

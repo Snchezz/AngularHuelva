@@ -1,0 +1,16 @@
+body{
+    height: 3000px;
+}
+
+#text {
+    width:  7%;
+    height: auto;
+}
+
+#txtnav {
+    font-size: 20px;
+}
+
+a:hover {
+    transform: scale(1.2);
+}

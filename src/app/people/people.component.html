@@ -1,0 +1,28 @@
+<app-nav></app-nav>
+<br>
+
+<h1>Usuarios Biblioteca</h1>
+
+<table class="responsive-table highlight">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Nombre</th>
+            <th>Usuario</th>
+            <th>Teléfono</th>
+            <th>Web</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr *ngFor="let persona of personas">
+            <td>{{persona.id}}</td>
+            <td>{{persona.name}}</td>
+            <td>{{persona.username}}</td>
+            <td>{{persona.phone}}</td>
+            <td>{{persona.website}}</td>
+        </tr>
+    </tbody>
+</table>
+
+<app-footer></app-footer>

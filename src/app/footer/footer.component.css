@@ -1,0 +1,25 @@
+#img {
+    width: 5%;
+    height: auto;
+}
+
+#txt {
+    font-size: 30px;
+    text-align: center;
+}
+
+#size:hover {
+    transform: scale(1.2);
+}
+
+#txth5 {
+    font-size: 40px;
+}
+
+#foot {
+    background-color: #202120;
+}
+
+#footer {
+    background-color: #000;
+}
